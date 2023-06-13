@@ -18,8 +18,8 @@ export default siteConfig({
 
   // social usernames (optional)
   
-  github: 'transitive-bullshit',
-  linkedin: 'www.linkedin.com/in/hopkin',
+  github: 'Hopkinau',
+  linkedin: 'hopkin',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
